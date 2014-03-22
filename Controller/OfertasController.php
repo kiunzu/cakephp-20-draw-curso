@@ -7,6 +7,9 @@ App::uses('AppController', 'Controller');
  */
 class OfertasController extends AppController {
 
+public function home() {
+	
+}
 
 /**
  * index method
